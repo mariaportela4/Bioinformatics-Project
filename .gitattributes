@@ -1,0 +1,2 @@
+propythia.zip filter=lfs diff=lfs merge=lfs -text
+blast_db_files.zip filter=lfs diff=lfs merge=lfs -text
